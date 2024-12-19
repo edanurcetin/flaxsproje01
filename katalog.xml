@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <CD>
+    <TITLE>Thriller</TITLE>
+    <ARTIST>Michael Jackson</ARTIST>
+    <YEAR>1982</YEAR>
+    <COUNTRY>USA</COUNTRY>
+  </CD>
+  <CD>
+    <TITLE>Back in Black</TITLE>
+    <ARTIST>AC/DC</ARTIST>
+    <YEAR>1980</YEAR>
+    <COUNTRY>Australia</COUNTRY>
+  </CD>
+  <CD>
+    <TITLE>The Dark Side of the Moon</TITLE>
+    <ARTIST>Pink Floyd</ARTIST>
+    <YEAR>1973</YEAR>
+    <COUNTRY>UK</COUNTRY>
+  </CD>
+</catalog>
